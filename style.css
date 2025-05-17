@@ -95,10 +95,16 @@ a {
   flex-direction: row;
 }
 
-img {
-  padding: 80px;
-  border: 4px solid #3882F6;
-  border-radius: 15px;
+.container2 {
+  margin: 20px;
+}
+
+.images {
+    height: 200px;
+    width: 200px;
+    border: solid;
+    border-radius: 15px;
+    border-color: #3882F6;
 }
 
 .content3 {
